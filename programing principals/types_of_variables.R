@@ -14,3 +14,10 @@ z <- 2 + 2i
 typeof(z)
 
 #character
+a <- "text"
+
+#logical
+l <-TRUE 
+
+typeof(a)
+typeof(l)
